@@ -111,8 +111,8 @@ ul li:hover a {
 	margin-left: 0px;
 }
 .parallax_appstore {
-	float:right;
-	padding-right: 10px;
+	float: inherit;
+	padding-left: 100px;
 	width: 15%;
 }
 /* More info */
